@@ -31,26 +31,3 @@ Ligações:
 
 O LED foi ligado ao GPIO 23 do ESP32 através de uma resistência de 220 ohms.
 
-Ligações principais:
-
-    ESP32 GPIO 23
-          |
-          |
-          |
-          V
- Resistência 220 ohms
-          |
-          |
-          |
-          V
-        LED (+)
-        LED (-)
-          |
-          |
-          |
-          V
-         GND
-          
-          
-
-
